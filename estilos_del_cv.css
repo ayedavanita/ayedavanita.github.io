@@ -1,0 +1,54 @@
+.clase_para_datos_personales{
+    font-weight: lighter;
+    color: rgb(5, 5, 97);
+}  
+
+header{
+    font-weight: bold;
+    color: rgb(5, 5, 97);
+    font-family: 'Fascinate Inline', cursive;
+
+}  
+
+button{
+    font-weight: bold;
+    color: rgb(5, 5, 97);
+    font-family: 'Ruluko', sans-serif;
+}  
+
+strong{
+   font-size:x-large ;
+}  
+
+#partePrincipal{
+    font-weight: bold;
+    color: rgb(5, 5, 97);
+    font-family: 'Ruluko', sans-serif;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+    font-size: larger;
+}  
+
+.enlace_nav{
+    background: salmon;
+    font-weight: bold;
+    color: rgb(247, 247, 250);
+    font-family: 'Ruluko', sans-serif;
+    padding: 10px 30px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: right;
+}  
+
+.enlace_nav:hover{
+   background: rgb(204, 146, 146);
+} 
+
+nav{
+    text-align: center;
+ }
+
+body{
+    background-color: bisque;
+ }
